@@ -1,3 +1,0 @@
-"""
-Garun Core Module
-"""
